@@ -23,7 +23,7 @@
 *.a
 *.o
 *.ocx
-#*.res
+*.res
 *.tlb
 *.obj
 
@@ -65,3 +65,9 @@
 __history/
 __recovery/
 *.~*
+
+# -------------
+# Release files
+# -------------
+
+Release
